@@ -1,0 +1,44 @@
+{
+  "general": {
+    "404": {
+      "title": "Sorry we can't find that page",
+      "back": "Back to E-Fitre"
+    }
+  },
+  "product": {
+    "copy": {
+      "headline": "Hassle free fitness tracking",
+      "description_headline": "Information"
+    },
+    "details_list": {
+      "item1": "Companion apps for iOS & Android",
+      "item2": "Preorders begin shipping this March"
+    },
+    "form": {
+      "submit": "Preorder"
+    }
+  },
+  "cart": {
+    "general":{
+      "title":"Cart",
+      "preorder_info":"All preorder ship free this May",
+      "support_title":"Any questions?",
+      "support_email":"support@efitra.com",
+      "checkout":"Checkout",
+      "empty":"Your cart is empty",
+      "back":"Back to E-Fitre"
+    },
+    "button": {
+      "filled": "Your cart",
+      "empty": "Your cart is empty",
+      "close": "Close"
+    },
+    "lines": {
+      "title":"Order Summary",
+      "shipping":"Shipping",
+      "subtotal":"Subtotal",
+      "free":"free",
+      "remove":"Remove"
+    }
+  }
+}
